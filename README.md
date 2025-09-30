@@ -105,7 +105,7 @@ current_focus:
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 
-<br><br>
+<br>
 
 ### 🔥 LANGUAGES
 
@@ -134,8 +134,6 @@ current_focus:
 </td>
 </tr>
 </table>
-
-<br>
 
 ### ⚡ FRAMEWORKS & TOOLS
 
@@ -173,9 +171,7 @@ current_focus:
 </td>
 </tr>
 </table>
-
 </div>
-
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -240,33 +236,4 @@ def approach_to_development():
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-</div>
-
-## 📡 LET'S CONNECT
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="120">
-
-**Let's build something together.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umesh24703)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umesh24703@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Umesh49)
-
-**📧** umesh24703@gmail.com  
-**📍** Mumbai, Maharashtra, India
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-</div>
-
-<div align="center">
-
-**Made with 💙 by Umesh Yadav**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+Let's+build+something+amazing+together." />
-
 </div>
