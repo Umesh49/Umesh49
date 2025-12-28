@@ -15,6 +15,4 @@ Open to mobile, web, or software projects. Got an idea? Let's talk.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umesh49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)
-
 <sub>Most of my repos are private because apparently clients don't like their code on display. Who knew? 🤷</sub>
